@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi, I'm Julia 👋
+
+
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=juliasleptsova&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=juliasleptsova&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/juliasleptsova/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasleptsova&layout=compact"/></a>
+</p>
 
 <!--
 **juliasleptsova/juliasleptsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
