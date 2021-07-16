@@ -1,6 +1,6 @@
 # Hi, I'm Julia 👋
 
-
+<!--
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=juliasleptsova&show_icons=true&count_private=true"><img
            height=150
@@ -17,7 +17,7 @@
    </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:yulii.morozova@gmail.com'>yulii.morozova@gmail.com</a>
-</p>
+</p> -->
 
 <!--
 **juliasleptsova/juliasleptsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
