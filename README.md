@@ -1,7 +1,7 @@
 # Hi, I'm Julia 👋
 
 
-[![Codewars](https://www.codewars.com/users/Julia%20Morozova/badges/micro)](https://www.codewars.com/users/Julia%20Morozova)
+[![Codewars](https://www.codewars.com/users/juliamorozova/badges/micro)](https://www.codewars.com/users/juliamorozova)
 
 <!--
 <p align='center'>
