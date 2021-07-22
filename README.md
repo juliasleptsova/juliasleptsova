@@ -1,4 +1,5 @@
 # Hi, I'm Julia 👋
+<hr>
 
 <!--
 <p align='center'>
