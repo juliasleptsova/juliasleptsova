@@ -3,14 +3,16 @@
 
 [![Codewars](https://www.codewars.com/users/julimorozova/badges/micro)](https://www.codewars.com/users/julimorozova)
 
-<!--
-<p align='center'>
+
+<p align='left'>
    <a href="https://github-readme-stats.vercel.app/api?username=juliasleptsova&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=juliasleptsova&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/juliasleptsova/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasleptsova&layout=compact"/></a>
 </p>
+
+<!--
 <p align='center'>
    <a href="https://www.linkedin.com/in/julia-m-038a02212/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
