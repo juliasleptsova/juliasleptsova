@@ -7,9 +7,9 @@
 <p align='left'>
    <a href="https://github-readme-stats.vercel.app/api?username=julimorozova&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=julimorozov&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/julimorozov/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=julimorozov&layout=compact"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=julimorozova&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/julimorozova/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=julimorozova&layout=compact"/></a>
 </p>
 
 <!--
