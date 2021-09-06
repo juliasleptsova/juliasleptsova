@@ -1,4 +1,4 @@
-# Hi, I'm Julia 👋
+# Hi there, I'm Julia 👋
 
 
 [![Codewars](https://www.codewars.com/users/julimorozova/badges/micro)](https://www.codewars.com/users/julimorozova)
