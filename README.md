@@ -14,7 +14,7 @@
 
 ### Skills
 
-![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/badge/-HTML-4b4a49?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)
 ![JS](https://img.shields.io/badge/-JS-black?style=for-the-badge&logo=javascript)
 ![GIT](https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=git)
