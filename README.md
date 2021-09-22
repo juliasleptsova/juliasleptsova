@@ -9,6 +9,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-4b4a49?style=for-the-badge&logo=css3)
 ![JS](https://img.shields.io/badge/-JS-4b4a49?style=for-the-badge&logo=javascript)
 ![GIT](https://img.shields.io/badge/-GIT-4b4a49?style=for-the-badge&logo=git)
+![jest](https://img.shields.io/badge/-jest-4b4a49?style=for-the-badge&logo=jest)
    
 [![Codewars](https://www.codewars.com/users/julimorozova/badges/micro)](https://www.codewars.com/users/julimorozova)
 
@@ -16,7 +17,6 @@
 
 * <p> <a href="https://github.com/julimorozova/js--javascript-for-beginners">js--javascript-for-beginners</a>
    the repository contains solutions to tasks of <a href="https://otus.ru/online/online-js/">the javascript for beginners course</a> and tests for it. The jest test framework was used
-![jest](https://img.shields.io/badge/-jest-009961?style=for-the-badge&logo=jest)
 </p>
    
 * <p> <a href="https://github.com/julimorozova/01-persona-cv">01-persona-cv</a>
