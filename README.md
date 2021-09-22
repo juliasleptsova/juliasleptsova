@@ -3,7 +3,7 @@
 ## Frontend developer
 
    
-### Tech
+### Tech:
 
 ![HTML](https://img.shields.io/badge/-HTML-4b4a49?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-4b4a49?style=for-the-badge&logo=css3)
@@ -14,7 +14,7 @@
    
 [![Codewars](https://www.codewars.com/users/julimorozova/badges/micro)](https://www.codewars.com/users/julimorozova)
 
-### Projects 
+### Projects: 
 
 * <p> <a href="https://github.com/julimorozova/js--javascript-for-beginners">js--javascript-for-beginners</a>
    the repository contains solutions to tasks of <a href="https://otus.ru/online/online-js/">the javascript for beginners course</a> and tests for it. The jest test framework was used
