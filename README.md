@@ -3,7 +3,7 @@
 ## Frontend developer
 
    
-### Skills
+### Tech
 
 ![HTML](https://img.shields.io/badge/-HTML-4b4a49?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-4b4a49?style=for-the-badge&logo=css3)
