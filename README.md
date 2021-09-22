@@ -1,7 +1,15 @@
 # Hi there, I'm Julia 👋
 
+<p>Frontend developer<p>
 
+   
+### Skills
 
+![HTML](https://img.shields.io/badge/-HTML-4b4a49?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-4b4a49?style=for-the-badge&logo=css3)
+![JS](https://img.shields.io/badge/-JS-4b4a49?style=for-the-badge&logo=javascript)
+![GIT](https://img.shields.io/badge/-GIT-4b4a49?style=for-the-badge&logo=git)
+   
 <p align='left'>
    <a href="https://github-readme-stats.vercel.app/api?username=julimorozova&show_icons=true&count_private=true"><img
            height=150
@@ -10,12 +18,6 @@
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=julimorozova&layout=compact"/></a> -->
 </p>
 
-### Skills
-
-![HTML](https://img.shields.io/badge/-HTML-4b4a49?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-4b4a49?style=for-the-badge&logo=css3)
-![JS](https://img.shields.io/badge/-JS-4b4a49?style=for-the-badge&logo=javascript)
-![GIT](https://img.shields.io/badge/-GIT-4b4a49?style=for-the-badge&logo=git)
 
 [![Codewars](https://www.codewars.com/users/julimorozova/badges/micro)](https://www.codewars.com/users/julimorozova)
 
