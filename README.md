@@ -14,7 +14,7 @@
 
 ### Projects 
 
-<p> * <a href="https://github.com/julimorozova/js--javascript-for-beginners">js--javascript-for-beginners</a>
+* <p> <a href="https://github.com/julimorozova/js--javascript-for-beginners">js--javascript-for-beginners</a>
    the repository contains solutions to tasks of <a href="https://otus.ru/online/online-js/">the javascript for beginners course</a> and tests for it. The jest test framework was used</p>
 
 
