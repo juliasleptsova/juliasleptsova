@@ -11,7 +11,9 @@
 ![GIT](https://img.shields.io/badge/-GIT-4b4a49?style=for-the-badge&logo=git)
    
 [![Codewars](https://www.codewars.com/users/julimorozova/badges/micro)](https://www.codewars.com/users/julimorozova)
-   
+
+### Projects 
+![js--javascript-for-beginners](https://github.com/julimorozova/js--javascript-for-beginners) <p>The code for solving tasks of the course is a beginner javascript developer and code tests. The jest test framework was used</p>
 <p align='left'>
    <a href="https://github-readme-stats.vercel.app/api?username=julimorozova&show_icons=true&count_private=true"><img
            height=150
