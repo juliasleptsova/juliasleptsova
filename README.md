@@ -1,6 +1,6 @@
 # Hi there, I'm Julia 👋
 
-<p>Frontend developer<p>
+## Frontend developer
 
    
 ### Skills
