@@ -8,8 +8,8 @@
    <a href="https://github-readme-stats.vercel.app/api?username=julimorozova&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=julimorozova&show_icons=true&count_private=true"/></a>
-    <a href="https://github.com/julimorozova/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=julimorozova&layout=compact"/></a>
+    <!-- <a href="https://github.com/julimorozova/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=julimorozova&layout=compact"/></a> -->
 </p>
 
 
