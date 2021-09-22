@@ -15,9 +15,9 @@
 ### Skills
 
 ![HTML](https://img.shields.io/badge/-HTML-4b4a49?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)
-![JS](https://img.shields.io/badge/-JS-black?style=for-the-badge&logo=javascript)
-![GIT](https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=git)
+![CSS](https://img.shields.io/badge/-CSS-4b4a49?style=for-the-badge&logo=css3)
+![JS](https://img.shields.io/badge/-JS-4b4a49?style=for-the-badge&logo=javascript)
+![GIT](https://img.shields.io/badge/-GIT-4b4a49?style=for-the-badge&logo=git)
 
 
 <p>
