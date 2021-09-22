@@ -11,9 +11,11 @@
     <!-- <a href="https://github.com/julimorozova/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=julimorozova&layout=compact"/></a> -->
 </p>
+
 ### Skills
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)
 
 
 <p>
