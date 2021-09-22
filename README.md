@@ -10,6 +10,8 @@
 ![JS](https://img.shields.io/badge/-JS-4b4a49?style=for-the-badge&logo=javascript)
 ![GIT](https://img.shields.io/badge/-GIT-4b4a49?style=for-the-badge&logo=git)
    
+[![Codewars](https://www.codewars.com/users/julimorozova/badges/micro)](https://www.codewars.com/users/julimorozova)
+   
 <p align='left'>
    <a href="https://github-readme-stats.vercel.app/api?username=julimorozova&show_icons=true&count_private=true"><img
            height=150
@@ -19,7 +21,6 @@
 </p>
 
 
-[![Codewars](https://www.codewars.com/users/julimorozova/badges/micro)](https://www.codewars.com/users/julimorozova)
 
 <p>
    📫 How to reach me: <a href='mailto:yulii.morozova@gmail.com'>yulii.morozova@gmail.com</a>
