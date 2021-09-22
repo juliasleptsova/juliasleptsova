@@ -12,6 +12,7 @@
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=julimorozova&layout=compact"/></a> -->
 </p>
 ### Skills
+
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 
 
