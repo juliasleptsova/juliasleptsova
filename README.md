@@ -16,6 +16,10 @@
 
 * <p> <a href="https://github.com/julimorozova/js--javascript-for-beginners">js--javascript-for-beginners</a>
    the repository contains solutions to tasks of <a href="https://otus.ru/online/online-js/">the javascript for beginners course</a> and tests for it. The jest test framework was used</p>
+   
+* <p> <a href="https://github.com/julimorozova/01-persona-cv">01-persona-cv</a>
+   the repository contains the layout of the<a href="https://julimorozova.github.io/01-persona-cv/"> simple summary</a> </p>
+
 
 
 <p align='left'>
