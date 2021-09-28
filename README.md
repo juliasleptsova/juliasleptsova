@@ -9,8 +9,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-4b4a49?style=for-the-badge&logo=css3)
 ![JS](https://img.shields.io/badge/-JS-4b4a49?style=for-the-badge&logo=javascript)
 ![GIT](https://img.shields.io/badge/-GIT-4b4a49?style=for-the-badge&logo=git)
-![jest](https://img.shields.io/badge/-jest-4b4a49?style=for-the-badge&logo=jest)
-![npm](https://img.shields.io/badge/-npm-4b4a49?style=for-the-badge&logo=npm)
+
    
 [![Codewars](https://www.codewars.com/users/julimorozova/badges/micro)](https://www.codewars.com/users/julimorozova)
 
