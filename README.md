@@ -1,9 +1,6 @@
 #Привет! Я Юлия 👋
 
 ## Junior frontend developer
-
-<p>Я интересуюсь frontend разработкой, изучаю HTML, CSS, JavaScript</p>
-
    
 ### Tech:
 
