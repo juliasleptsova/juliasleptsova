@@ -1,6 +1,8 @@
-# Hi there, I'm Julia 👋
+#Привет! Я Юлия 👋
 
-## Frontend developer
+## Junior frontend developer
+
+<p>Я интересуюсь frontend разработкой, изучаю HTML, CSS, JavaScript</p>
 
    
 ### Tech:
@@ -15,12 +17,14 @@
 
 ### Projects: 
 
-* <p> <a href="https://github.com/julimorozova/js--javascript-for-beginners">The repository </a>
-   contains solutions to tasks of <a href="https://otus.ru/online/online-js/">the javascript for beginners course</a> and tests for it. The jest test framework was used
+* <p> <a href="https://github.com/julimorozova/js--javascript-for-beginners">Репозиторий</a>
+   содержит решения задач курса<a href="https://otus.ru/online/online-js/">javacript для начинающих</a> и покрытия их тестати с помощью тестоыого фреймворка Jest
 </p>
    
-* <p> <a href="https://github.com/julimorozova/01-persona-cv">The repository </a>
-   contains the layout of <a href="https://julimorozova.github.io/01-persona-cv/">the simple summary</a> </p>
+* <p> <a href="https://github.com/julimorozova/01-persona-cv">Репозиторий</a>
+   содержит верску простой карточки CV. Карточка адаптивна. В верстке использовались flex/grid<a href="https://julimorozova.github.io/01-persona-cv/">Deploy</a> </p>
+* <p> <a href="https://github.com/julimorozova/js--weather-forecast/tree/dev">Репозиторий</a>
+  содержит приложение погоды. Можно получить данные погоды в любом городе. По умолчанию показывается погода в городе локализации пользователя. В данный момент я доделываю приложение, пишу на него тесты и улучшаю код.<a href="https://julimorozova.github.io/js--weather-forecast/">Deploy</a> </p> 
 
 
 
