@@ -18,7 +18,7 @@
 ### Projects: 
 
 * <p> <a href="https://github.com/julimorozova/js--javascript-for-beginners">Репозиторий</a>
-   содержит решения задач курса<a href="https://otus.ru/online/online-js/">javacript для начинающих</a> и покрытия их тестати с помощью тестоыого фреймворка Jest
+   содержит решения задач курса<a href="https://otus.ru/online/online-js/"> javacript для начинающих</a> и покрытия их тестати с помощью тестоыого фреймворка Jest
 </p>
    
 * <p> <a href="https://github.com/julimorozova/01-persona-cv">Репозиторий</a>
