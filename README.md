@@ -22,9 +22,9 @@
 </p>
    
 * <p> <a href="https://github.com/julimorozova/01-persona-cv">Репозиторий</a>
-   содержит верску простой карточки CV. Карточка адаптивна. В верстке использовались flex/grid. <a href="https://julimorozova.github.io/01-persona-cv/"> Deploy</a> </p>
+   содержит верску простой карточки CV. Карточка адаптивна. В верстке использовались flex/grid. <a href="https://julimorozova.github.io/01-persona-cv/"> Ссылка на карточку</a> </p>
 * <p> <a href="https://github.com/julimorozova/js--weather-forecast/tree/dev">Репозиторий</a>
-  содержит приложение погоды. Можно получить данные погоды в любом городе. По умолчанию показывается погода в городе локализации пользователя. В данный момент я доделываю приложение, пишу на него тесты и улучшаю код.<a href="https://julimorozova.github.io/js--weather-forecast/"> Deploy</a> </p> 
+  содержит приложение погоды. Можно получить данные погоды в любом городе. По умолчанию показывается погода в городе локализации пользователя. В данный момент я доделываю приложение, пишу на него тесты и улучшаю код.<a href="https://julimorozova.github.io/js--weather-forecast/"> Ссылка на приложение</a> </p> 
 
 
 
