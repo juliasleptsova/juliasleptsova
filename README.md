@@ -1,6 +1,5 @@
 #Привет! Я Юлия 👋
 
-## Junior frontend developer
    
 ### Tech:
 
