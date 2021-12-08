@@ -11,7 +11,7 @@
    
 [![Codewars](https://www.codewars.com/users/julimorozova/badges/micro)](https://www.codewars.com/users/julimorozova)
 
-### Projects: 
+<!-- ### Projects: 
 
 * <p> <a href="https://github.com/julimorozova/js--javascript-for-beginners">Репозиторий</a>
    содержит решения задач курса<a href="https://otus.ru/online/online-js/"> javacript для начинающих</a> и покрытие их тестами с помощью тестового фреймворка Jest
@@ -20,7 +20,7 @@
 * <p> <a href="https://github.com/julimorozova/01-persona-cv">Репозиторий</a>
    содержит верстку простой карточки CV. Карточка адаптивна. В верстке использовались flex/grid. <a href="https://julimorozova.github.io/01-persona-cv/"> Ссылка на карточку</a> </p>
 * <p> <a href="https://github.com/julimorozova/js--weather-forecast/tree/dev">Репозиторий</a>
-  содержит приложение погоды. Можно получить данные погоды в любом городе. По умолчанию показывается погода в городе локализации пользователя. В данный момент я доделываю приложение, пишу на него тесты и улучшаю код. <a href="https://julimorozova.github.io/js--weather-forecast/"> Ссылка на приложение </a>(использовать Google Chrome)</p> 
+  содержит приложение погоды. Можно получить данные погоды в любом городе. По умолчанию показывается погода в городе локализации пользователя. В данный момент я доделываю приложение, пишу на него тесты и улучшаю код. <a href="https://julimorozova.github.io/js--weather-forecast/"> Ссылка на приложение </a>(использовать Google Chrome)</p>  -->
 
 
 
